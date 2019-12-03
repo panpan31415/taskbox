@@ -1,0 +1,7 @@
+{
+  "editor.formatOnType": true,
+  "prettier.trailingComma": "all",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
+}
